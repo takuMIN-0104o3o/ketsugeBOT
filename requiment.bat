@@ -2,7 +2,7 @@
 pip install pygame
 pip install opencv-python
 pip install numpy
-pip install git+https://github.com/ZCban/BetterCam.git
+pip install bettercam
 pip3 install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu126
 pip install pywin32
 pip install pyserial
